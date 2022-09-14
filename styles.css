@@ -123,6 +123,7 @@ h2{
     .attribution{
         display: flex;
         flex-direction: column;
+        margin-top: 20px;
         font-size: 1em;
     }
 
